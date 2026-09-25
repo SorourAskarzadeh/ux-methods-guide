@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "UX Methods Guide"
+  back-to-top-navigation: true
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: page1.qmd
+        text: Heuristic Evaluation
+      - href: page2.qmd
+        text: Card Sorting
+      - href: page3.qmd
+        text: Usability Testing
+  page-footer:
+    background: primary
+    left: "&copy; 2026 Sorour Askarzadeh"
+    right: "Built with [Quarto](https://quarto.org)"
+
+format:
+  html:
+    theme: spacelab
+    toc: true
+    css: styles.css

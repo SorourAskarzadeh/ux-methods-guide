@@ -1,0 +1,46 @@
+---
+title: "How to Run a Heuristic Evaluation of a Website"
+description: "Find usability problems in an existing site before you redesign it."
+---
+
+A heuristic evaluation is a quick way to find usability problems by reviewing a website against a set of established design principles. It is a good first step in a redesign because it needs no participants and can be done in a few hours.
+
+This article uses the redesign of Flame Kabob, a Persian restaurant website in Las Vegas, as an example.
+
+## Before you start
+
+You need:
+
+- The website you want to review
+- A list of heuristics. Most teams use [Nielsen's 10 usability heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/).
+- A spreadsheet to record problems
+
+## Steps
+
+1. List the key tasks. Write down the few things users most need to do on the site. For a restaurant, this is usually viewing the menu, checking hours and location, and placing an order.
+2. Walk through each task. Complete each task yourself and note every point where you hesitate, get lost, or make a mistake.
+3. Match each problem to a heuristic. Record which principle the problem breaks. This keeps your findings objective and easy to explain to others.
+4. Rate the severity. Use a scale from 0 (not a problem) to 4 (prevents users from finishing a task), so the team knows what to fix first.
+5. Summarize the findings. Group similar problems and list the most severe ones at the top.
+
+![The original Flame Kabob homepage, with inconsistent fonts and colors and unclear navigation icons.](images/flame-kabob-original.png)
+
+## Example findings
+
+The Flame Kabob evaluation found these problems:
+
+| Problem | Heuristic broken |
+|---|---|
+| Homepage styles were visually inconsistent | Consistency and standards |
+| The menu was not interactive | Flexibility and efficiency of use |
+| Navigation icons were poorly prioritized | Aesthetic and minimalist design |
+| Colors and fonts did not match the brand | Aesthetic and minimalist design |
+
+## Tips
+
+- Have two or three people evaluate separately, then combine the lists. One evaluator usually misses many problems.
+- A heuristic evaluation does not replace real users. Follow it with interviews or usability testing, as the Flame Kabob team did with 12 user interviews.
+
+## Learn more
+
+- [How to Conduct a Heuristic Evaluation](https://www.nngroup.com/articles/how-to-conduct-a-heuristic-evaluation/) (Nielsen Norman Group)

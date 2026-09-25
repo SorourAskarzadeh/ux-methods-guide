@@ -1,0 +1,22 @@
+---
+title: "UX Methods Guide"
+subtitle: "Short, practical guides to three common UX research methods"
+title-block-banner: images/header.jpg
+toc: false
+---
+This site explains three UX research methods that help teams find problems, organize content, and test designs. Each guide gives you the steps to run the method yourself and shows a real project as an example.
+
+## Guides
+
+[How to Run a Heuristic Evaluation of a Website](page1.qmd)
+: Review a website against established usability principles to find problems before a redesign. Example: Flame Kabob restaurant website.
+
+[How to Run a Closed Card Sort](page2.qmd)
+: Test whether your site's categories match how users expect content to be grouped. Example: Natural Beauty cosmetics website and app.
+
+[How to Run a Usability Test and Score It with SUS](page3.qmd)
+: Compare two designs using real tasks, error counts, and a standard satisfaction score. Example: Parks Library study room booking redesign.
+
+## Who this is for
+
+These guides are for students and beginners in UX design who want a quick, practical starting point. No special software is needed.

@@ -1,0 +1,156 @@
+[
+  {
+    "objectID": "page1.html",
+    "href": "page1.html",
+    "title": "How to Run a Heuristic Evaluation of a Website",
+    "section": "",
+    "text": "A heuristic evaluation is a quick way to find usability problems by reviewing a website against a set of established design principles. It is a good first step in a redesign because it needs no participants and can be done in a few hours.\nThis article uses the redesign of Flame Kabob, a Persian restaurant website in Las Vegas, as an example."
+  },
+  {
+    "objectID": "page1.html#before-you-start",
+    "href": "page1.html#before-you-start",
+    "title": "How to Run a Heuristic Evaluation of a Website",
+    "section": "Before you start",
+    "text": "Before you start\nYou need:\n\nThe website you want to review\nA list of heuristics. Most teams use Nielsen’s 10 usability heuristics.\nA spreadsheet to record problems"
+  },
+  {
+    "objectID": "page1.html#steps",
+    "href": "page1.html#steps",
+    "title": "How to Run a Heuristic Evaluation of a Website",
+    "section": "Steps",
+    "text": "Steps\n\nList the key tasks. Write down the few things users most need to do on the site. For a restaurant, this is usually viewing the menu, checking hours and location, and placing an order.\nWalk through each task. Complete each task yourself and note every point where you hesitate, get lost, or make a mistake.\nMatch each problem to a heuristic. Record which principle the problem breaks. This keeps your findings objective and easy to explain to others.\nRate the severity. Use a scale from 0 (not a problem) to 4 (prevents users from finishing a task), so the team knows what to fix first.\nSummarize the findings. Group similar problems and list the most severe ones at the top.\n\n\n\n\nThe original Flame Kabob homepage, with inconsistent fonts and colors and unclear navigation icons."
+  },
+  {
+    "objectID": "page1.html#example-findings",
+    "href": "page1.html#example-findings",
+    "title": "How to Run a Heuristic Evaluation of a Website",
+    "section": "Example findings",
+    "text": "Example findings\nThe Flame Kabob evaluation found these problems:\n\n\n\n\n\n\n\nProblem\nHeuristic broken\n\n\n\n\nHomepage styles were visually inconsistent\nConsistency and standards\n\n\nThe menu was not interactive\nFlexibility and efficiency of use\n\n\nNavigation icons were poorly prioritized\nAesthetic and minimalist design\n\n\nColors and fonts did not match the brand\nAesthetic and minimalist design"
+  },
+  {
+    "objectID": "page1.html#tips",
+    "href": "page1.html#tips",
+    "title": "How to Run a Heuristic Evaluation of a Website",
+    "section": "Tips",
+    "text": "Tips\n\nHave two or three people evaluate separately, then combine the lists. One evaluator usually misses many problems.\nA heuristic evaluation does not replace real users. Follow it with interviews or usability testing, as the Flame Kabob team did with 12 user interviews."
+  },
+  {
+    "objectID": "page1.html#learn-more",
+    "href": "page1.html#learn-more",
+    "title": "How to Run a Heuristic Evaluation of a Website",
+    "section": "Learn more",
+    "text": "Learn more\n\nHow to Conduct a Heuristic Evaluation (Nielsen Norman Group)"
+  },
+  {
+    "objectID": "page2.html",
+    "href": "page2.html",
+    "title": "How to Run a Closed Card Sort",
+    "section": "",
+    "text": "A closed card sort shows you how users expect content to be grouped on a website. Participants sort a set of cards (such as product names) into categories that you have already defined. The results tell you whether your navigation labels and structure match how people think.\nThis article uses the Natural Beauty project, a website and app for a vegan cosmetics brand, as an example."
+  },
+  {
+    "objectID": "page2.html#closed-or-open",
+    "href": "page2.html#closed-or-open",
+    "title": "How to Run a Closed Card Sort",
+    "section": "Closed or open?",
+    "text": "Closed or open?\n\nIn a closed card sort, you provide the categories. Use it to test a structure you already have.\nIn an open card sort, participants create their own categories. Use it early, when you have no structure yet."
+  },
+  {
+    "objectID": "page2.html#before-you-start",
+    "href": "page2.html#before-you-start",
+    "title": "How to Run a Closed Card Sort",
+    "section": "Before you start",
+    "text": "Before you start\nYou need:\n\nA draft list of categories (your main navigation)\n20 to 40 cards, each showing one piece of content, such as a product type\nParticipants who match your target users\nPhysical cards or an online tool such as Optimal Workshop"
+  },
+  {
+    "objectID": "page2.html#steps",
+    "href": "page2.html#steps",
+    "title": "How to Run a Closed Card Sort",
+    "section": "Steps",
+    "text": "Steps\n\nWrite the cards. Use plain words that users would recognize, and avoid copying your category names onto the cards, since that makes the answers obvious.\nSet up the categories. Place them where every participant can see them.\nRun the sessions. Ask each participant to place every card in the category where they would expect to find it. Ask them to think aloud so you hear their reasoning.\nRecord the results. Note where each card was placed and any cards that participants hesitated over.\nLook for patterns. Cards placed in the same category by most participants confirm your structure. Cards that were spread across several categories point to confusing labels.\nUpdate your site map. Rename or move categories based on what you learned.\n\n\n\n\nThe Natural Beauty site map, organized by product category after the card sort sessions."
+  },
+  {
+    "objectID": "page2.html#example",
+    "href": "page2.html#example",
+    "title": "How to Run a Closed Card Sort",
+    "section": "Example",
+    "text": "Example\nThe Natural Beauty team ran five closed card sorting sessions. The results shaped the site map and confirmed how users expected to move between product categories before any wireframes were drawn."
+  },
+  {
+    "objectID": "page2.html#tips",
+    "href": "page2.html#tips",
+    "title": "How to Run a Closed Card Sort",
+    "section": "Tips",
+    "text": "Tips\n\nFive sessions can reveal clear patterns on a small site. Larger sites usually need more participants.\nCard sorting tests structure, not visual design. Test the finished navigation later with usability testing."
+  },
+  {
+    "objectID": "page2.html#learn-more",
+    "href": "page2.html#learn-more",
+    "title": "How to Run a Closed Card Sort",
+    "section": "Learn more",
+    "text": "Learn more\n\nCard Sorting: Uncover Users’ Mental Models (Nielsen Norman Group)"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "UX Methods Guide",
+    "section": "",
+    "text": "This site explains three UX research methods that help teams find problems, organize content, and test designs. Each guide gives you the steps to run the method yourself and shows a real project as an example."
+  },
+  {
+    "objectID": "index.html#guides",
+    "href": "index.html#guides",
+    "title": "UX Methods Guide",
+    "section": "Guides",
+    "text": "Guides\n\nHow to Run a Heuristic Evaluation of a Website\n\nReview a website against established usability principles to find problems before a redesign. Example: Flame Kabob restaurant website.\n\nHow to Run a Closed Card Sort\n\nTest whether your site’s categories match how users expect content to be grouped. Example: Natural Beauty cosmetics website and app.\n\nHow to Run a Usability Test and Score It with SUS\n\nCompare two designs using real tasks, error counts, and a standard satisfaction score. Example: Parks Library study room booking redesign."
+  },
+  {
+    "objectID": "index.html#who-this-is-for",
+    "href": "index.html#who-this-is-for",
+    "title": "UX Methods Guide",
+    "section": "Who this is for",
+    "text": "Who this is for\nThese guides are for students and beginners in UX design who want a quick, practical starting point. No special software is needed."
+  },
+  {
+    "objectID": "page3.html",
+    "href": "page3.html",
+    "title": "How to Run a Usability Test and Score It with SUS",
+    "section": "",
+    "text": "title: “How to Run a Usability Test and Score It with SUS” description: “Compare two designs using tasks, error counts, and a standard satisfaction score.” —\nA usability test shows how well real people can complete tasks with a design. Adding the System Usability Scale (SUS), a short standard questionnaire, gives you a single score you can compare against other designs.\nThis article uses the Parks Library study room booking redesign at Iowa State University as an example."
+  },
+  {
+    "objectID": "page3.html#before-you-start",
+    "href": "page3.html#before-you-start",
+    "title": "How to Run a Usability Test and Score It with SUS",
+    "section": "Before you start",
+    "text": "Before you start\nYou need:\n\nThe designs you want to test, such as the current system and a prototype\nThree to five realistic tasks\nParticipants who match your target users\nA way to record time, errors, and task completion\nThe SUS questionnaire (10 questions, each answered on a 1 to 5 scale)"
+  },
+  {
+    "objectID": "page3.html#steps",
+    "href": "page3.html#steps",
+    "title": "How to Run a Usability Test and Score It with SUS",
+    "section": "Steps",
+    "text": "Steps\n\nWrite the tasks. Each task should have a clear goal and end point, such as “Book a room for four people tomorrow at 2 p.m.”\nChoose a study design. In a within-subjects study, each participant uses both designs. Switch which design goes first for half the participants, so learning does not affect the results.\nRun the sessions. Give one task at a time. Do not help participants unless they are completely stuck.\nMeasure performance. Record completion time, number of errors, and whether each task was completed.\nGive the SUS questionnaire. Participants fill it out after using each design.\nCalculate the SUS score for each participant, then average the scores."
+  },
+  {
+    "objectID": "page3.html#calculating-sus",
+    "href": "page3.html#calculating-sus",
+    "title": "How to Run a Usability Test and Score It with SUS",
+    "section": "Calculating SUS",
+    "text": "Calculating SUS\nOdd questions (1, 3, 5, 7, 9):   response - 1\nEven questions (2, 4, 6, 8, 10): 5 - response\nSUS score = (sum of all 10 values) x 2.5\nScores range from 0 to 100. The average score across many studies is 68, so a score above 68 is above average.\n\n\n\nThe redesigned booking screen, showing the drag-to-select timeline and room details side panel."
+  },
+  {
+    "objectID": "page3.html#example-results",
+    "href": "page3.html#example-results",
+    "title": "How to Run a Usability Test and Score It with SUS",
+    "section": "Example results",
+    "text": "Example results\nNine Iowa State students completed three booking tasks on both the current LibCal system and the redesign:\n\n\n\nMeasure\nCurrent system\nRedesign\n\n\n\n\nErrors per task (average)\n4.08\n1.1\n\n\nTask failures\nOver 50% on Task 3\nNone\n\n\nCompletion time\nBaseline\nAbout 35% faster\n\n\n\nThe redesign received a mean SUS score of 84.2, well above the average score of 68."
+  },
+  {
+    "objectID": "page3.html#learn-more",
+    "href": "page3.html#learn-more",
+    "title": "How to Run a Usability Test and Score It with SUS",
+    "section": "Learn more",
+    "text": "Learn more\n\nUsability Testing 101 (Nielsen Norman Group)"
+  }
+]
